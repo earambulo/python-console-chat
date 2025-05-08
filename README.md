@@ -92,5 +92,3 @@ This project illustrates several fundamental programming and networking concepts
 * **Asynchronous I/O:** Using `asyncio` for potentially more efficient handling of many connections.
 
 ---
-
-Feel free to customize this README further. For example, you might want to add a section about yourself as the author, a license (like MIT if you want to make it open source), or more specific details if you add more features.
